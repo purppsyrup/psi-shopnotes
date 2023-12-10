@@ -1,8 +1,8 @@
-Hi, Shopnotes adalah aplikasi shopping list berbasis Android yang kami buat sebagai projek akhir PSI kelas B tahun 2023.
-Aplikasi yang kami buat masih mengalami error pada CustomDatePicker, namun anda masih bisa melihat - lihat source code kami.
-Kedepannya masih dapat kami improve dari segi UI, dan fungsionalitas seperti time based push notifications.
+Shopnotes adalah aplikasi shopping list berbasis Android yang kami buat sebagai projek akhir PSI kelas B tahun 2023.
+Aplikasi yang kami buat masih mengalami error pada penggunaan CustomDatePicker, namun anda masih bisa melihat - lihat source code kami.
+Kedepannya masih dapat kami improve dari segi UI, dan fungsionalitas seperti time based push notifications (dan tentunya juga error fix pada CustomDatePicker).
 
-Features
+Current features
 - Adding items
 - Setting quantities
 - Setting purchase dates for each respective items
